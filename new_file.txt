@@ -6,3 +6,5 @@ this line is written from github
 This is the new feature in a new_feature branch
 
 This line is written in main. This commit should come before new-feature branch's commit
+
+This line will give conflict (:main)
